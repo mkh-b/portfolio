@@ -17,11 +17,14 @@ Welcome to my data portfolio! This is where I document a summary of my projects 
 - Identify the highest paid employees of the dataset, and which jobs they worked.
 - Analyze the correlation between the variables "Age" and "Salary".
 
+**Approach:** performing a simple EDA (Exploratory Data Analysis)
 **Tools used:** MySQL, Google Looker Studio.
 
 ![salarydata_viz_page-0001](https://github.com/user-attachments/assets/c31b70ca-13e0-4584-9b5f-a27151e6bf48)
 
 ### The process:
-**Data cleaning and pre-processing:**
-The initial dataset is raw and presents data with multiple mistakes, it wasn't possible to start the analysis right away, I used MySQL to clean & transform the data.
+**Data wrangling:**
+The initial dataset is raw and presents data with multiple issues, it wasn't possible to start the analysis right away, I used MySQL to clean the data & normalize some variables.
 
+**Analysis and detailed results:**
+Once the raw dataset is converted to analysis-ready data, and with the use of MySQL, I took the initiative to analyze the data and reach the objectives of this project.
