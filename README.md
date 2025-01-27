@@ -31,3 +31,18 @@ The initial dataset is raw and presents data with multiple issues, it wasn't pos
 
 **Analysis and detailed results:**
 Once the raw dataset is converted to analysis-ready data, and with the use of MySQL, I took the initiative to analyze the cleaned data and reach the objectives of this project.
+- Average salary by gender:
+
+| gender | average_salary |
+| ------ | -------------- |
+| male   | 121401.2322    |
+| female | 107923.4992    |
+
+- Average salary by age groups:
+
+| age_group | average_salary |
+| --------- | -------------- |
+| 21-29     | 72218.3373     |
+| 30-39     | 123996.0643    |
+| 40-49     | 166899.1995    |
+| 50-62     | 192192.5793    |
