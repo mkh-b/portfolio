@@ -743,3 +743,48 @@ Once the raw dataset is converted to analysis-ready data, and with the use of My
 | PhD                        | Chief Technology Officer              | 1              | 250000.0000    |
 | PhD                        | Director of Human Resources           | 1              | 185000.0000    |
 | PhD                        | Digital Marketing Manager             | 1              | 30000.0000     |
+
+- Highest-paid employees by Age:
+
+| Age | Salary    |
+| --- | --------- |
+| 52  | 250000    |
+| 50  | 250000    |
+| 45  | 250000    |
+| 51  | 240000    |
+| 49  | 228000    |
+| 50  | 225000    |
+| 49  | 220000    |
+| 46  | 220000    |
+| 44  | 220000    |
+| 48  | 219000    |
+
+- Highest-paid employees by Job Title:
+
+| Job Title                | Salary |
+| ------------------------ | ------ |
+| Chief Technology Officer | 250000 |
+| Financial Manager        | 250000 |
+| CEO                      | 250000 |
+| Data Scientist           | 240000 |
+| Marketing Manager        | 228000 |
+| Data Scientist           | 225000 |
+| Chief Data Officer       | 220000 |
+| Director of Data Science | 220000 |
+| Data Scientist           | 220000 |
+| Data Scientist           | 219000 |
+
+- Highest-paid employees by Years of Experience:
+
+| Years of Experience | Salary |
+| ------------------- | ------ |
+| 24                  | 250000 |
+| 21                  | 250000 |
+| 25                  | 250000 |
+| 24                  | 240000 |
+| 23                  | 228000 |
+| 23                  | 225000 |
+| 22                  | 220000 |
+| 16                  | 220000 |
+| 20                  | 220000 |
+| 22                  | 219000 |
