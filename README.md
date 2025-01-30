@@ -9,21 +9,23 @@ Welcome to my data portfolio! This is where I document a summary of my projects 
 **Dataset information:** it contains 6 columns, each column representing a variable: Gender, Age, Education Level, Job Title, Years of Experience, Salary. 
 The "Gender" variable presents two classes: "Male" and "Female", the age of the individuals in the dataset varies from 21 until 62, while education is represented in the form of four levels: High School, Bachelor's Degree, Master's Degree and PhD. The dataset also contains a total 183 different job positions, and the number of years each employee has as experience varying from 0 to 34 years. The unit of the variable "Salary" is INR (Indian Rupee).
 
-**Objective of the analysis:**
+**Objectives of the analysis:**
 - Analyze the salary distribution across different job titles and education levels.
 - Determine the average salary for each category.
 - Investigate if there is a significant gender pay gap.
 - Study the influence of the years of experience on the salary levels.
 - Study the impact of the education level and how it affects salary levels.
-- Identify the highest paid employees of the dataset, and which jobs they worked.
+- Identify the highest paid employees of the dataset, by Age, Years of Experience and Job Title.
 - Analyze the correlation between the variables "Age" and "Salary".
 
 **Approach:** performing a simple EDA (Exploratory Data Analysis)
 
 **Tools used:** MySQL, Google Looker Studio.
 
-**Dashboard:** (https://lookerstudio.google.com/reporting/abd0dc6d-9b0a-4816-9cb2-237664754725)
-![salarydata_viz_page-0001](https://github.com/user-attachments/assets/c31b70ca-13e0-4584-9b5f-a27151e6bf48)
+**Dashboard:** ([https://lookerstudio.google.com/reporting/abd0dc6d-9b0a-4816-9cb2-237664754725](https://lookerstudio.google.com/s/uxZDc5sghI0))
+
+![salarydata_viz](https://github.com/user-attachments/assets/298e330f-14e1-4e9f-a0cb-9ec4d40d6ffb)
+
 
 ### The process:
 **Data wrangling:**
@@ -788,3 +790,6 @@ Once the raw dataset is converted to analysis-ready data, and with the use of My
 | 16                  | 220000 |
 | 20                  | 220000 |
 | 22                  | 219000 |
+
+**Conclusion:**
+
