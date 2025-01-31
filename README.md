@@ -20,7 +20,7 @@ The "Gender" variable presents two classes: "Male" and "Female", the age of the 
 
 **Approach:** performing a simple EDA (Exploratory Data Analysis)
 
-**Tools used:** MySQL, Google Looker Studio.
+**Tools used:** MySQL for data analysis and Google Looker Studio for data visualization.
 
 **Dashboard:** ([https://lookerstudio.google.com/reporting/abd0dc6d-9b0a-4816-9cb2-237664754725](https://lookerstudio.google.com/s/uxZDc5sghI0))
 
@@ -793,3 +793,4 @@ Once the raw dataset is converted to analysis-ready data, and with the use of My
 
 **Conclusion:**
 
+The analysis of the data revealed that there is a slight pay gap between men and women (5.8% of difference in the average salary), 
