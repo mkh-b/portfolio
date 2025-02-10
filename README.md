@@ -790,7 +790,3 @@ Once the raw dataset is converted to analysis-ready data, and with the use of My
 | 16                  | 220000 |
 | 20                  | 220000 |
 | 22                  | 219000 |
-
-**Conclusion:**
-
-The analysis of the data revealed that there is a slight pay gap between men and women (5.8% of difference in the average salary), 
