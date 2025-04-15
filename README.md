@@ -790,3 +790,13 @@ Once the raw dataset is converted to analysis-ready data, and with the use of My
 | 16                  | 220000 |
 | 20                  | 220000 |
 | 22                  | 219000 |
+
+
+# Project 2: Data-Driven Strategy for Content: Case Study
+
+## Introduction: 
+In this digital age we live in, social media has become a vital part of our lives. Platforms that were once seen as online spaces for socializing are now utilized for matters of business, dating, politics, and daily communication. These platforms remain the top choice for individuals to grow their businesses and brands 
+through advertisements and marketing strategies.
+Reaching your target audience and bringing new customers on social media isn't always a success, and can be especially challenging for small, medium and newly opened online businesses that don't have already existing popularity on social platforms, which is where Data Science and Data Analysis come in.
+Whether you own a business or you simply aim to grow your platform and its online presence by increasing user engagement and audience reach, you will need a data-driven content strategy to optimize the platform’s engagement and audience growth.
+This project is a case study created by Aman Kharwal, posted on statso.io (https://statso.io/data-driven-strategy-for-content-case-study/)
