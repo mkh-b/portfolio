@@ -2,7 +2,7 @@
 
 Welcome to my data portfolio! This is where I document a summary of my projects in the data field.
 
-## Project 1: Analysing the distribution of salary
+## Project 1: Salary Distribution Analysis
 
 **Dataset source:** https://www.kaggle.com/datasets/mohithsairamreddy/salary-data
 
@@ -26,8 +26,6 @@ The "Gender" variable presents two classes: "Male" and "Female", the age of the 
 
 ![salarydata_viz](https://github.com/user-attachments/assets/298e330f-14e1-4e9f-a0cb-9ec4d40d6ffb)
 
-
-### The process:
 
 
 # Project 2: Data-Driven Strategy for Content: Case Study
