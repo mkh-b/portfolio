@@ -26,9 +26,9 @@ The "Gender" variable presents two classes: "Male" and "Female", the age of the 
 
 ![salarydata_viz](https://github.com/user-attachments/assets/298e330f-14e1-4e9f-a0cb-9ec4d40d6ffb)
 
-[Process & Results](https://github.com/mkh-b/portfolio/blob/main/Project%201%3A%20Process%20%26%20Results)
+[Check The Process and Results Here](https://github.com/mkh-b/portfolio/blob/main/Project%201%3A%20Process%20%26%20Results)
 
-[MySQL script](https://github.com/mkh-b/portfolio/blob/main/Project%201%3A%20MySQL%20script)
+[Check The MySQL Script Here](https://github.com/mkh-b/portfolio/blob/main/Project%201%3A%20MySQL%20script)
 
 # Project 2: Data-Driven Strategy for Content: Case Study
 
