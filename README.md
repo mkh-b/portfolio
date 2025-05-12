@@ -37,5 +37,20 @@ In this digital age we live in, social media has become a vital part of our live
 through advertisements and marketing strategies.
 Reaching your target audience and bringing new customers on social media isn't always a success, and can be especially challenging for small, medium and newly opened online businesses that don't have already existing popularity on social platforms, which is where Data Science and Data Analysis come in.
 Whether you own a business or you simply aim to grow your platform and its online presence by increasing user engagement and audience reach, you will need a data-driven content strategy to optimize the platform’s engagement and audience growth.
-This project is a case study created by Aman Kharwal, posted on statso.io (https://statso.io/data-driven-strategy-for-content-case-study/)
-[view report](https://docs.google.com/spreadsheets/d/1Da6SrVzyjV4EB5Y3MXZjkR7qKU-OMsoN/edit?usp=sharing&ouid=107468020496323504064&rtpof=true&sd=true)
+This project is a case study created by Aman Kharwal, posted on statso.io 
+
+**Dataset source:** https://statso.io/data-driven-strategy-for-content-case-study/
+
+**Objectives of the analysis:**
+- What topics should the platform focus on to increase user engagement?
+- Which post types should be prioritized to grow followers and interactions?
+- What days and times are optimal for posting to achieve maximum reach and impressions?
+- How can seasonal or recurring trends be leveraged to sustain engagement throughout the year?
+
+**Strategy based on Analysis:**
+- 
+- In order to increase user engagement, the platform should focus on posting more content about "Projects", as it generates the most reach, impressions and likes. "Careeer Growth" is the next best performing topic, although a detailed look at the posts' descriptions shows that "Learning and Education" and "Career Growth" are similar in context and could be used similarly. This finding encourages giving the topic regarding "Learning and Education" more importance, it includes posting challenges, various data science concepts' definitions and learning guides to help with improving skills. These could attract more audience with different data science skills and knowledge levels. In this regard, posting simple and visually appealing roadmaps and easily readable guides is a creative and effective way to reach users who are new to data related content, including reccomendations of online courses they might find helpful (making the learning process of data science concepts accessible, easily understandable and enjoyable for this demographic is a possibility for gaining new faithful followers who engage with the platform regularly in a long term). As for the intermediate, advanced and experienced users who simply want to improve by application rather than theory, the platform could build loyalty and gain them as followers through posting solved and explained projects related to real world events. Observing the bigger picture, "Projects" topic plays a key role in improving engagement in a long term, for many users it's a way to help them gain more skills and build their portfolio in order to land a good job position.
+- 
+
+
+[View Full Dashboard and Cleaned Dataset](https://docs.google.com/spreadsheets/d/1Da6SrVzyjV4EB5Y3MXZjkR7qKU-OMsoN/edit?usp=sharing&ouid=107468020496323504064&rtpof=true&sd=true)
