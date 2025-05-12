@@ -28,7 +28,7 @@ The "Gender" variable presents two classes: "Male" and "Female", the age of the 
 
 [Process & Results](https://github.com/mkh-b/portfolio/blob/main/Project%201%3A%20Process%20%26%20Results)
 
-[MySQL script](
+[MySQL script](https://github.com/mkh-b/portfolio/blob/main/Project%201%3A%20MySQL%20script)
 
 # Project 2: Data-Driven Strategy for Content: Case Study
 
