@@ -48,9 +48,16 @@ This project is a case study created by Aman Kharwal, posted on statso.io
 - How can seasonal or recurring trends be leveraged to sustain engagement throughout the year?
 
 **Strategy based on Analysis:**
-- 
+
+
+Knowing which post type is right for the content is one of the most important decisions in terms of increasing the platform's engagement metrics without relying heavily on ADs, 
+What performs better on Instagram reels or carousels?
+Reels are great for maximizing reach, while carousels are effective for generating engagement and saves. Make a decision based on your preference and priority. Experiment and measure with curiosity: Continuously test both formats to see what works best for your audience and content.
+Instagram Reels get 1.36x more reach than carousels and 2.25x more reach than photos. If you're still relying on static posts, you're losing visibility—fast. Instagram's algorithm favors short-form video, and Reels are leading the charge. Brands that adapt will grow.
+Reels clearly get more reach, meaning more new eyes on your content. But remember, more eyes doesn't mean more business.
+
 - In order to increase user engagement, the platform should focus on posting more content about "Projects", as it generates the most reach, impressions and likes. "Careeer Growth" is the next best performing topic, although a detailed look at the posts' descriptions shows that "Learning and Education" and "Career Growth" are similar in context and could be used similarly. This finding encourages giving the topic regarding "Learning and Education" more importance, it includes posting challenges, various data science concepts' definitions and learning guides to help with improving skills. These could attract more audience with different data science skills and knowledge levels. In this regard, posting simple and visually appealing roadmaps and easily readable guides is a creative and effective way to reach users who are new to data related content, including reccomendations of online courses they might find helpful (making the learning process of data science concepts accessible, easily understandable and enjoyable for this demographic is a possibility for gaining new faithful followers who engage with the platform regularly in a long term). As for the intermediate, advanced and experienced users who simply want to improve by application rather than theory, the platform could build loyalty and gain them as followers through posting solved and explained projects related to real world events. Observing the bigger picture, "Projects" topic plays a key role in improving engagement in a long term, for many users it's a way to help them gain more skills and build their portfolio in order to land a good job position.
-- 
+- IG image seems to generate the most impressions and reach, although the ratio between these metrics and the rest of the engagement metrics for images compared to reels and carousels seems to indicate the high number of impressions and reach could be influenced by ADs and promotions, as IG reels performs better than IG carousels and IG images in terms of likes, comments, follows, saves and shares, while carousels are ahead of reels regarding impressions and reach. To link the post type with its content, it is best to post snippets of the projects and the challenges the platform offers in the form of a short reel, this will help with maximizing the platform's reach and attract new eyes on your content. 
 
 
 [View Full Dashboard and Cleaned Dataset](https://docs.google.com/spreadsheets/d/1Da6SrVzyjV4EB5Y3MXZjkR7qKU-OMsoN/edit?usp=sharing&ouid=107468020496323504064&rtpof=true&sd=true)
