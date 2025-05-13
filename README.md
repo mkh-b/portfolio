@@ -60,11 +60,11 @@ This project is a case study created by Aman Kharwal, posted on statso.io
 |    Day    | Best Post Type for Follower Growth | Best Post Type for Interactions | Best Posting Hour|
 |-----------|------------------------------------|---------------------------------|------------------|
 | Saturday  |              IG image              |              IG reel            |        2:00      |
+| Sunday    |              IG reel               |              IG reel            |        8:00      |
 | Monday    |              IG carousel           |              IG carousel        |        4:00      |
 | Tuesday   |              IG reel               |              IG reel            |        0:00      |
 | Wednesday |              IG reel               |              IG reel            |        6:00      |
 | Thursday  |              IG reel               |              IG reel            |        7:00      |
 | Friday    |              IG reel               |              IG reel            |        20:00     |
-| Sunday    |              IG reel               |              IG reel            |        8:00      |
 
 [View Full Dashboard and Cleaned Dataset](https://docs.google.com/spreadsheets/d/1Da6SrVzyjV4EB5Y3MXZjkR7qKU-OMsoN/edit?usp=sharing&ouid=107468020496323504064&rtpof=true&sd=true)
