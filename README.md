@@ -30,9 +30,9 @@ The "Gender" variable presents two classes: "Male" and "Female", the age of the 
 
 [Check The MySQL Script Here](https://github.com/mkh-b/portfolio/blob/main/Project%201%3A%20MySQL%20script)
 
-# Project 2: Data-Driven Strategy for Content: Case Study
+## Project 2: Data-Driven Strategy for Content: Case Study
 
-## Introduction: 
+**Introduction:** 
 In this digital age we live in, social media has become a vital part of our lives. Platforms that were once seen as online spaces for socializing are now utilized for matters of business, dating, politics, and daily communication. These platforms remain the top choice for individuals to grow their businesses and brands 
 through advertisements and marketing strategies.
 Reaching your target audience and bringing new customers on social media isn't always a success, and can be especially challenging for small, medium and newly opened online businesses that don't have an already existing popularity on social platforms, which is where Data Science and Data Analysis come in.
