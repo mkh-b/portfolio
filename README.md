@@ -65,7 +65,7 @@ This project is a case study created by Aman Kharwal, posted on statso.io
 | Tuesday   |              IG reel               |              IG reel            |        0:00      |
 | Wednesday |              IG reel               |              IG reel            |        6:00      |
 | Thursday  |              IG reel               |              IG reel            |        7:00      |
-| Friday    |              IG reel               |              IG reel            |        20:00     |
+| Friday    |              IG reel                |              IG reel            |        20:00     |
 
 [View Full Dashboard and Cleaned Dataset](https://docs.google.com/spreadsheets/d/1Da6SrVzyjV4EB5Y3MXZjkR7qKU-OMsoN/edit?usp=sharing&ouid=107468020496323504064&rtpof=true&sd=true)
 
@@ -74,9 +74,15 @@ This project is a case study created by Aman Kharwal, posted on statso.io
 **Business Questions:**
 - Which Category is the Highest Rated, Best Selling and Most Profitable overall and in each Branch?
 - Which is the Preferred Payment Method?
-- Which Branch is the Most Profitable?
 - Which City has the Highest Number of Sales?
-- What is th
+- What are the Busiest Days and Hours for each Branch?
+- Which Period of the year generates the Most Profit and Revenue?
+- What are the Best and Worst Performing Branches?
+
+**Tools used:** Python for Data Cleaning, Data Transformation and extensive Exploratory Data Analysis, Google Looker Studio for Data Visualization.
+
+**Dataset source:** https://www.kaggle.com/datasets/najir0123/walmart-10k-sales-datasets
+
 
 
 [View dynamic and interactive dashboard](https://lookerstudio.google.com/embed/reporting/1ea52b0c-e4a1-4828-b592-606fee4873f2/page/w2JbF)
