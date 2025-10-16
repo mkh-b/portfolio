@@ -4,7 +4,7 @@ Welcome to my data portfolio! This is where I document a summary of my projects 
 
 ## Project 1: Salary Distribution Analysis
 
-**Dataset source:** https://www.kaggle.com/datasets/mohithsairamreddy/salary-data
+**Dataset source:** [Kaggle](https://www.kaggle.com/datasets/mohithsairamreddy/salary-data)
 
 **Dataset information:** it contains 6 columns, each column representing a variable: Gender, Age, Education Level, Job Title, Years of Experience, Salary. 
 The "Gender" variable presents two classes: "Male" and "Female", the age of the individuals in the dataset varies from 21 until 62, while education is represented in the form of four levels: High School, Bachelor's Degree, Master's Degree and PhD. The dataset also contains a total 183 different job positions, and the number of years each employee has as experience varying from 0 to 34 years. The unit of the variable "Salary" is INR (Indian Rupee).
@@ -90,7 +90,10 @@ This project is a case study created by Aman Kharwal, posted on statso.io
 **Key Results and Insights:**
 * 'Fashion Accessories' and 'Home & Lifestyle' are the Best Selling and also the Most Profitable Categories, while the Highest Rated ones are 'Food & Beverages', 'Health & Beauty' and 'Sports & Travel'.
 * The most commonly used Payment Methods based on transactions are E-Wallets and Credit Cards.
-* Top 5 Cities with the Highest Sales based on Total Quantity are: Abilene, Baytown, Angleton, Bedford, Alamo.
-* Top 5 Cities with the Highest Sales based on Total Revenue are: Baytown, Abilene, Arlington, Angleton, Bedford.
+* Top 5 Cities with the Highest Sales based on Total Quantity are: Weslaco, Waxahachie, Rockwall, Plano, Port Arthur.
+* Top 5 Cities with the Highest Sales based on Total Revenue are: Weslaco, Waxahachie, Plano, San Antonio, Port Arthur.
+* Top 5 Cities with the Lowest Sales based on Total Quantity are: Burleson, Lewisville, Pearland, Amarillo, Lake Jackson.
+* Top 5 Cities with the Lowest Sales based on Total Revenue are: Longview, Pearland, Irving, Lewisville, Lake Jackson.
+* 
 
 [View dynamic and interactive dashboard](https://lookerstudio.google.com/embed/reporting/1ea52b0c-e4a1-4828-b592-606fee4873f2/page/w2JbF)
