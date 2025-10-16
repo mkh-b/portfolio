@@ -73,7 +73,7 @@ This project is a case study created by Aman Kharwal, posted on statso.io
 
 **Background:** Walmart Inc. is an American multinational retail corporation that operates a chain of supercenters, discount department stores, and grocery stores in the United States and 23 other countries. The company is headquartered in Bentonville, Arkansas and was founded in 1962 by brothers Sam Walton and James "Bud" Walton in nearby Rogers, Arkansas.
 
-**Overview:** This project focuses on analysing sales data to extract critical business insights and identify opportunities to boost sales and business growth across 98 cities and 100 branches of Walmart in Texas, USA.
+**Overview:** This project focuses on analysing sales data to extract critical business insights and identify opportunities to boost sales and business growth across 98 cities and 100 branches of Walmart in Texas from 01/01/2019 until 31/12/2023.
 
 **Business Questions:**
 - Which Category is the Highest Rated, Best Selling and Most Profitable overall and in each Branch?
@@ -88,6 +88,9 @@ This project is a case study created by Aman Kharwal, posted on statso.io
 **Dataset source:** [Kaggle](https://www.kaggle.com/datasets/najir0123/walmart-10k-sales-datasets)
 
 **Key Results and Insights:**
-
+* 'Fashion Accessories' and 'Home & Lifestyle' are the Best Selling and also the Most Profitable Categories, while the Highest Rated ones are 'Food & Beverages', 'Health & Beauty' and 'Sports & Travel'.
+* The most commonly used Payment Methods based on transactions are E-Wallets and Credit Cards.
+* Top 5 Cities with the Highest Sales based on Total Quantity are: Abilene, Baytown, Angleton, Bedford, Alamo.
+* Top 5 Cities with the Highest Sales based on Total Revenue are: Baytown, Abilene, Arlington, Angleton, Bedford.
 
 [View dynamic and interactive dashboard](https://lookerstudio.google.com/embed/reporting/1ea52b0c-e4a1-4828-b592-606fee4873f2/page/w2JbF)
