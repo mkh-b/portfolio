@@ -80,7 +80,7 @@ This project is a case study created by Aman Kharwal, posted on statso.io
 - Which is the Preferred Payment Method?
 - Which City has the Highest Number of Sales?
 - What are the Busiest Days and Hours for each Branch?
-- Which Period of the year generates the Most Profit and Revenue?
+- Which Period of the Year generates the Most Profit and Revenue?
 - What are the Best and Worst Performing Branches?
 
 **Tools used:** Python for Data Cleaning, Data Transformation and extensive Exploratory Data Analysis, Google Looker Studio for Data Visualization.
@@ -94,6 +94,13 @@ This project is a case study created by Aman Kharwal, posted on statso.io
 * Top 5 Cities with the Highest Sales based on Total Revenue are: Weslaco, Waxahachie, Plano, San Antonio, Port Arthur.
 * Top 5 Cities with the Lowest Sales based on Total Quantity are: Burleson, Lewisville, Pearland, Amarillo, Lake Jackson.
 * Top 5 Cities with the Lowest Sales based on Total Revenue are: Longview, Pearland, Irving, Lewisville, Lake Jackson.
-* 
+* On average, the Busiest Hours of the day based on Transactions are from 3pm - 8pm.
+* Sundays and Tuesdays tend to derive the Most Customers based on Transactions.
+* October, November and December generate the Most Profit and Revenue each year.
+* Best Perfoming Branches based on Total Profit: WALM009, WALM030, WALM003, WALM029, WALM046.
+* Wost Perfoming Branches based on Total Profit: WALM097, WALM100, WALM092, WALM098, WALM077.
+
+**Strategic Recommendation:**
+- 
 
 [View dynamic and interactive dashboard](https://lookerstudio.google.com/embed/reporting/1ea52b0c-e4a1-4828-b592-606fee4873f2/page/w2JbF)
