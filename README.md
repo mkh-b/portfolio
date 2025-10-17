@@ -100,7 +100,7 @@ This project is a case study created by Aman Kharwal, posted on statso.io
 * Best Perfoming Branches based on Total Profit: WALM009, WALM030, WALM003, WALM029, WALM046.
 * Wost Perfoming Branches based on Total Profit: WALM097, WALM100, WALM092, WALM098, WALM077.
 
-**Strategic Recommendation:**
+**Strategic Recommendations:**
 - 
 
 [View dynamic and interactive dashboard](https://lookerstudio.google.com/embed/reporting/1ea52b0c-e4a1-4828-b592-606fee4873f2/page/w2JbF)
