@@ -101,6 +101,8 @@ This project is a case study created by Aman Kharwal, posted on statso.io
 * Wost Perfoming Branches based on Total Profit: WALM097, WALM100, WALM092, WALM098, WALM077.
 
 **Strategic Recommendations:**
+- Focus on marketing the 'Fashion Accessories' and 'Home & Lifestyle' categories.
+- Optimize payment services for E-Wallets and Credit Cards.
 - 
 
 [View dynamic and interactive dashboard](https://lookerstudio.google.com/embed/reporting/1ea52b0c-e4a1-4828-b592-606fee4873f2/page/w2JbF)
