@@ -20,15 +20,11 @@ The "Gender" variable presents two classes: "Male" and "Female", the age of the 
 
 **Approach:** performing a simple EDA (Exploratory Data Analysis)
 
-**Tools used:** MySQL for data analysis and Google Looker Studio for data visualization.
+**Tools used:** MySQL for Data Cleaning and Data Analysis, Google Looker Studio for Data Visualization.
 
-**Dashboard:** ([https://lookerstudio.google.com/reporting/abd0dc6d-9b0a-4816-9cb2-237664754725](https://lookerstudio.google.com/s/uxZDc5sghI0))
-
-![salarydata_viz](https://github.com/user-attachments/assets/298e330f-14e1-4e9f-a0cb-9ec4d40d6ffb)
+**Dashboard:** [View dashboard](https://lookerstudio.google.com/s/uxZDc5sghI0)
 
 [Check The Process and Results Here](https://github.com/mkh-b/portfolio/blob/main/Project%201%3A%20Process%20%26%20Results)
-
-[Check The MySQL Script Here](https://github.com/mkh-b/portfolio/blob/main/Project%201%3A%20MySQL%20script)
 
 ## Project 2: Data-Driven Strategy for Content: Case Study
 
