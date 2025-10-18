@@ -101,8 +101,15 @@ This project is a case study created by Aman Kharwal, posted on statso.io
 * Wost Perfoming Branches based on Total Profit: WALM097, WALM100, WALM092, WALM098, WALM077.
 
 **Strategic Recommendations:**
-- Focus on marketing the 'Fashion Accessories' and 'Home & Lifestyle' categories.
-- Optimize payment services for E-Wallets and Credit Cards.
-- 
+- Focus on promoting the 'Fashion accessories' and 'Home & Lifestyle' categories.
+- Bundle 'Fashion Accessories' products with similar and fitting products from the less profitable category such as 'Health & Beauty' to boost sales.
+- Create a Travel package with products from categories 'Electronic Accessories' and 'Sports & Travel' such as power banks, universal adapters, chargers, headphones, orgfanizer pouches, etc. And similarly, a Fitness package containing electronic products used for sports.
+- Optimize payment processing systems and services for E-Wallets and Credit Cards to improve customer experience.
+- Manage staff shifts and replenish stock according to rush hours for each branch to enhance customer satisfaction.
+- The last 3 months of the year is a high-sales period, most likely due to Holidays such as Halloween, Thanksgiving and Christmas. Organize sections with themed products for each holiday, focus on flash sales and prioritize clearing out old stock to maximize End of Year sales.
+
+**Limitations & Next Steps:** (What I would do if I had more data and information)
+- Analyze and predict customer behaviour and purchasing habits.
+- Identify the problems and causes for branches with declining revenue by diving deeper into population size, customer segments, products availability and quality, pricing, customer service, or other possible local issues. This could be done effectively through a survey.
 
 [View dynamic and interactive dashboard](https://lookerstudio.google.com/embed/reporting/1ea52b0c-e4a1-4828-b592-606fee4873f2/page/w2JbF)
