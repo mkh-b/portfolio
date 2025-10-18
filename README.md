@@ -22,9 +22,9 @@ The "Gender" variable presents two classes: "Male" and "Female", the age of the 
 
 **Tools used:** MySQL for Data Cleaning and Data Analysis, Google Looker Studio for Data Visualization.
 
-**Dashboard:** [View dashboard](https://lookerstudio.google.com/s/uxZDc5sghI0)
+[View dashboard](https://lookerstudio.google.com/s/uxZDc5sghI0)
 
-[Check The Process and Results Here](https://github.com/mkh-b/portfolio/blob/main/Project%201%3A%20Process%20%26%20Results)
+[View Process and Results](https://github.com/mkh-b/portfolio/blob/main/Project%201%3A%20Process%20%26%20Results)
 
 ## Project 2: Data-Driven Strategy for Content: Case Study
 
