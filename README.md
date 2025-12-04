@@ -84,7 +84,7 @@ This project is a case study created by Aman Kharwal, posted on statso.io
 | Thursday  |              IG reel               |              IG reel            |        7:00      |
 | Friday    |              IG reel                |              IG reel            |        20:00     |
 
-[View Full Dashboard and Cleaned Dataset](https://docs.google.com/spreadsheets/d/1Da6SrVzyjV4EB5Y3MXZjkR7qKU-OMsoN/e
+[View Full Dashboard and Cleaned Dataset](https://docs.google.com/spreadsheets/d/1Da6SrVzyjV4EB5Y3MXZjkR7qKU-OMsoN/edit?usp=sharing&ouid=107468020496323504064&rtpof=true&sd=true)
 
 ## Project 1: Salary Distribution Analysis
 
@@ -110,5 +110,4 @@ The "Gender" variable presents two classes: "Male" and "Female", the age of the 
 
 [View Process and Results](https://github.com/mkh-b/portfolio/blob/main/Project%201%3A%20Process%20%26%20Results)
 
-dit?usp=sharing&ouid=107468020496323504064&rtpof=true&sd=true)
 
